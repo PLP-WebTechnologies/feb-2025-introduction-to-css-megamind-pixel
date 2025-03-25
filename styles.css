@@ -1,0 +1,46 @@
+.table-header{
+    background-color: #f5f5f5;
+    font-weight: bold;
+    text-align: center;
+}
+.table-row{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: bisque;
+}
+td{
+    padding: 10px;
+    font-display: block;
+}
+.form{
+    margin: 20px;
+    margin: auto;
+}
+.audio{
+    margin: 20px;
+    background-color: black;
+    text-align: center;
+}
+.video{
+    margin: 20px;
+    background-color: black;
+    text-align: center;
+}
+#contacts-table{
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+th{
+    padding: 10px;
+    background-color: darkgray;
+}
+#country{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
